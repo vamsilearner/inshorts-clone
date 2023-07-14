@@ -1,0 +1,10 @@
+.categoryFilter {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.categoryFilter button {
+  border: none;
+  cursor: pointer;
+}
